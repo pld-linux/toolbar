@@ -1,7 +1,7 @@
 # TODO:
 # javadoc package
 Summary:	An extension of JToolBar which adds support for ToolButton
-Summary(pl):	Rozszerzenie JToolBara dodaj±ce obs≥ugÍ ToolButtona
+Summary(pl.UTF-8):   Rozszerzenie JToolBara dodajƒÖce obs≈Çugƒô ToolButtona
 Name:		toolbar
 Version:	0.4
 Release:	0.1
@@ -22,20 +22,20 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 ToolBar was originally designed for the ArgoUML project and has now
 been broken out to allow reuse by other Swing based applications.
 
-%description -l pl
-ToolBar oryginalnie zosta≥ zaprojektowany dla projektu ArgoUML, a
-pÛºniej zosta≥ wydzielony do uøywania takøe w innych aplikacjach
+%description -l pl.UTF-8
+ToolBar oryginalnie zosta≈Ç zaprojektowany dla projektu ArgoUML, a
+p√≥≈∫niej zosta≈Ç wydzielony do u≈ºywania tak≈ºe w innych aplikacjach
 opartych na Swingu.
 
 %package doc
 Summary:	Javadoc for ToolBar
-Summary(pl):	Dokumentacja Javadoc dla ToolBara
+Summary(pl.UTF-8):   Dokumentacja Javadoc dla ToolBara
 Group:		Documentation
 
 %description doc
 Javadoc for ToolBar.
 
-%description doc -l pl
+%description doc -l pl.UTF-8
 Dokumentacja Javadoc dla ToolBara.
 
 %prep
