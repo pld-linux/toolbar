@@ -1,7 +1,7 @@
 # TODO:
 # javadoc package
 Summary:	An extension of JToolBar which adds support for ToolButton
-Summary(pl.UTF-8):   Rozszerzenie JToolBara dodające obsługę ToolButtona
+Summary(pl.UTF-8):	Rozszerzenie JToolBara dodające obsługę ToolButtona
 Name:		toolbar
 Version:	0.4
 Release:	0.1
@@ -29,7 +29,7 @@ opartych na Swingu.
 
 %package doc
 Summary:	Javadoc for ToolBar
-Summary(pl.UTF-8):   Dokumentacja Javadoc dla ToolBara
+Summary(pl.UTF-8):	Dokumentacja Javadoc dla ToolBara
 Group:		Documentation
 
 %description doc
