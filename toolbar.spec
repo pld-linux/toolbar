@@ -12,6 +12,7 @@ Group:		Development/Languages/Java
 Source0:	http://toolbar.tigris.org/files/documents/869/9314/ToolBar-%{version}-bin.zip
 # Source0-md5:	76606eb81d2d59c9e3b57d1914fadcc6
 URL:		http://toolbar.tigris.org/
+BuildRequires:	unzip
 Requires:	jakarta-log4j
 #BuildRequires:	ant
 #BuildRequires:	jakarta-commons-logging
